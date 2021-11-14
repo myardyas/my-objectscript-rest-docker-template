@@ -41,11 +41,11 @@ Storage Default
 <Value>DOB</Value>
 </Value>
 </Data>
-<DataLocation>^Sample.PersonD</DataLocation>
+<DataLocation>^dc.Sample.PersonD</DataLocation>
 <DefaultData>PersonDefaultData</DefaultData>
-<IdLocation>^Sample.PersonD</IdLocation>
-<IndexLocation>^Sample.PersonI</IndexLocation>
-<StreamLocation>^Sample.PersonS</StreamLocation>
+<IdLocation>^dc.Sample.PersonD</IdLocation>
+<IndexLocation>^dc.Sample.PersonI</IndexLocation>
+<StreamLocation>^dc.Sample.PersonS</StreamLocation>
 <Type>%Storage.Persistent</Type>
 }
 
